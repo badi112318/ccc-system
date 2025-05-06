@@ -197,9 +197,6 @@ $user_name = $_SESSION['user_name'] ?? "User"; // Default to 'User' if no name e
           <i class="fas fa-eye"></i>&nbsp; Footages
       </a>
 
-    <div   id="footagesCategory" class="footages-category" style="display: none;">
-        <!-- Category content goes here -->
-        <p>Category content goes here...</p>
     </div>
 
 
