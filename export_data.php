@@ -11,6 +11,3 @@ while ($row = $result->fetch_assoc()) {
 
 // Pwede mong idagdag ibang tables kung gusto
 // $data['playback_requests'] = ...
-
-echo json_encode($data);
-?>
